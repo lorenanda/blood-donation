@@ -13,5 +13,5 @@ In this project I explore a dataset from Kaggle to predict the churn rate of ban
 - Customers who left the bank have less products (1) than those who stayed (2).
 
 ### Classification results:
-- Logistic Regression: 83% accuray, 63% precision.
-- Random Forest Classifier: 86.1% accuray, 75.1% precision.
+- [Logistic Regression](https://github.com/lorenanda/customer-churn-prediction/blob/master/churnrate_logreg.ipynb): 83% accuray, 63% precision.
+- [Random Forest Classifier](https://github.com/lorenanda/customer-churn-prediction/blob/master/churnrate_randomforest.ipynb): 86.1% accuray, 75.1% precision.
